@@ -1,0 +1,6 @@
+legalizacion,empleado,ciudad,salida,regreso,id,fecha,categoria,descripcion,factura,valor_cop
+L-9999,Camila Rojas,Medellín,2026-10-05,2026-10-07,G-901,2026-10-05,Tiquetes aéreos,Tiquete ida y vuelta a Medellín,FE-70001,480000
+L-9999,Camila Rojas,Medellín,2026-10-05,2026-10-07,G-902,2026-10-05,Hospedaje,Noche de hotel en Medellín,FE-61020,335000
+L-9999,Camila Rojas,Medellín,2026-10-05,2026-10-07,G-903,2026-10-06,Alimentación,Desayuno almuerzo y cena,FE-44120,92000
+L-9999,Camila Rojas,Medellín,2026-10-05,2026-10-07,G-904,2026-10-06,Transporte terrestre,Taxis a reuniones,,18000
+L-9999,Camila Rojas,Medellín,2026-10-05,2026-10-07,G-905,2026-10-07,Otros,Parqueadero del aeropuerto,FE-80455,45000
